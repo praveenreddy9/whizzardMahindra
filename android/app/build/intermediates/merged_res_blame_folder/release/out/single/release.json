@@ -1,0 +1,598 @@
+[
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_cancelshift.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_cancelshift.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_approved.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_approved.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_documents.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_documents.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativeratings_src_images_airbnbstar.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativeratings_src_images_airbnbstar.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_stopwarning.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_stopwarning.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_warehouse.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_warehouse.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_activelabourer.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_activelabourer.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_entities_lib_maps_legacy.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_entities_lib_maps_legacy.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_deliveries2.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_deliveries2.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_userpic.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_userpic.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_referral.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_referral.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/pngs/release/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_disabledda.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_disabledda.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_dist_glyphmaps_materialicons.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_dist_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/pngs/release/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_disableddda.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_disableddda.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-hdpi_ic_stat_onesignal_default.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/src/main/res/drawable-hdpi/ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_vehicle_two.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_vehicle_two.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_sorry.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_sorry.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_mll_logo.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_mll_logo.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_io_rolling2px.gif.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_io_rolling2px.gif"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_default_image_thumbnail.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_default_image_thumbnail.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_loader.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_loader.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_stat_onesignal_default.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/src/main/res/drawable-xxhdpi/ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_domserializer_foreignnames.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_domserializer_foreignnames.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_badge_big.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_badge_big.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_activedriver.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_activedriver.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_dist_glyphmaps_fontisto.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_dist_glyphmaps_fontisto.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_ic_stat_onesignal_default.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/src/main/res/drawable-mdpi/ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_dist_glyphmaps_ionicons.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_dist_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_note2000.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_note2000.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_internet_connection.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_internet_connection.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_markedattendance.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_markedattendance.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativeratings_src_images_airbnbstarselected.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativeratings_src_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_group1600.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_group1600.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_dist_glyphmaps_entypo.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_dist_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_entities_lib_maps_decode.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_entities_lib_maps_decode.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_axios_package.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_axios_package.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_foundation.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_trips2.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_trips2.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_dist_glyphmaps_fontawesome.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_dist_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_disableddriver.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_disableddriver.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_adminmarkattend.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_adminmarkattend.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_footericon.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_footericon.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_training.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_training.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_odometer.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_odometer.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_endpoint.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_endpoint.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_2hoursimage.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_2hoursimage.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_dist_glyphmaps_fontawesome5free.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_dist_glyphmaps_fontawesome5free.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_antdesign.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_antdesign.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/pngs/release/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_profile_user.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_profile_user.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativeratings_src_images_star.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativeratings_src_images_star.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_updateshift.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_updateshift.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_sitewarehouse.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_sitewarehouse.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_note50.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_note50.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_entities_lib_maps_entities.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_entities_lib_maps_entities.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_routepoint.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_routepoint.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativeratings_src_images_bell.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativeratings_src_images_bell.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_disabledendpoint.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_disabledendpoint.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_delivery.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_delivery.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_dist_glyphmaps_materialcommunityicons.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_dist_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativeratings_src_images_rocket.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativeratings_src_images_rocket.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_terms.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_terms.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_stat_onesignal_default.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/src/main/res/drawable-xxxhdpi/ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_note500.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_note500.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_loader.gif.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_loader.gif"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_ended_shift.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_ended_shift.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_onesignal_default_sound.mp3.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/src/main/res/raw/onesignal_default_sound.mp3"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_disabledlabourer.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_disabledlabourer.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_mll_logo1.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_mll_logo1.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_note1.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_note1.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_rejected.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_rejected.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_entities_lib_maps_xml.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_entities_lib_maps_xml.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/pngs/release/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_notreached.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_notreached.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_disabledsupervisor.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_disabledsupervisor.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_activedda.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_activedda.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/pngs/release/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigationstack_lib_module_views_assets_backiconmask.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigationstack_lib_module_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_odo_small.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_odo_small.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_note20.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_note20.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_distance3.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_distance3.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativeratings_src_images_heart.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativeratings_src_images_heart.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_vehicle_three_wheeler.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_vehicle_three_wheeler.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_pickup.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_pickup.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_dist_glyphmaps_fontawesome5free_meta.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_dist_glyphmaps_fontawesome5free_meta.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_app.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/app.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_note10.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_note10.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_vehicle_four_wheeler.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_vehicle_four_wheeler.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_vehicle_four.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_vehicle_four.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_praveen.mp3.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/src/main/res/raw/praveen.mp3"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_csstree_dist_defaultsyntax.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_csstree_dist_defaultsyntax.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_note5.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_note5.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_splash_screen.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_splash_screen.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_stat_onesignal_default.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/src/main/res/drawable-xhdpi/ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_cash_small.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_cash_small.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_whizzardinverted.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_whizzardinverted.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_note100.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_note100.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_note200.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_note200.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_activesupervisor.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_activesupervisor.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_vehicle_three.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_vehicle_three.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_vehicle_two_wheeler.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_vehicle_two_wheeler.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_cssselect_lib_procedure.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_cssselect_lib_procedure.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_dist_glyphmaps_octicons.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_dist_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_note2.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_note2.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_activeda.png.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_activeda.png"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_dist_glyphmaps_zocial.json.flat",
+        "source": "/home/praveen/Desktop/MahendraWhizzard/whizzard-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_dist_glyphmaps_zocial.json"
+    }
+]

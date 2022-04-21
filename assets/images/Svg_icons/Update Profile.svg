@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="25" viewBox="0 0 32 25">
+  <defs>
+    <clipPath id="clip-Update_Profile">
+      <rect width="32" height="25"/>
+    </clipPath>
+  </defs>
+  <g id="Update_Profile" data-name="Update Profile" clip-path="url(#clip-Update_Profile)">
+    <g id="camera" transform="translate(5)">
+      <path id="Path_249" data-name="Path 249" d="M13.511,10a5.511,5.511,0,1,0,5.511,5.511A5.511,5.511,0,0,0,13.511,10Zm3.138,8.2a4.133,4.133,0,1,1-.448-5.827A4.132,4.132,0,0,1,16.649,18.2Z" transform="translate(-2.489 -2.178)" fill="#f8656a" fill-rule="evenodd"/>
+      <path id="Path_250" data-name="Path 250" d="M14.756,14A2.756,2.756,0,0,0,12,16.756h0a.344.344,0,0,0,.689,0h0a2.067,2.067,0,0,1,2.067-2.066.344.344,0,1,0,0-.689Z" transform="translate(-3.733 -3.422)" fill="#f8656a" fill-rule="evenodd"/>
+      <path id="Path_251" data-name="Path 251" d="M20.317,7.162l-2.986-.5L16.385,4.3A2.058,2.058,0,0,0,14.467,3H7.578A2.06,2.06,0,0,0,5.659,4.3L4.713,6.664l-2.985.5A2.059,2.059,0,0,0,0,9.2V19.533A2.069,2.069,0,0,0,2.067,21.6H19.978a2.069,2.069,0,0,0,2.067-2.067V9.2A2.059,2.059,0,0,0,20.317,7.162Zm.35,12.371a.688.688,0,0,1-.689.689H2.067a.688.688,0,0,1-.689-.689V9.2a.689.689,0,0,1,.576-.679L5.7,7.9,6.938,4.811a.691.691,0,0,1,.64-.433h6.889a.69.69,0,0,1,.639.433L16.34,7.9l3.751.625a.689.689,0,0,1,.576.679Z" transform="translate(0 0)" fill="#f8656a" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

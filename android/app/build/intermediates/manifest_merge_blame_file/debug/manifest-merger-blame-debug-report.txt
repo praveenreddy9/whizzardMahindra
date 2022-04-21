@@ -1,0 +1,655 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.whizzard.mll"
+4    android:versionCode="82"
+5    android:versionName="2.5.62" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="30" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:5:5-65
+13-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:5:22-62
+14    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+14-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:6:5-70
+14-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:6:22-68
+15
+16    <uses-feature android:name="android.hardware.camera" />
+16-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:7:5-60
+16-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:7:19-57
+17
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:8:5-81
+18-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:8:22-78
+19    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:9:5-80
+19-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:9:22-77
+20    <uses-permission android:name="android.permission.VIBRATE" />
+20-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:10:5-66
+20-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:10:22-63
+21    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+21-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:11:5-79
+21-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:11:22-76
+22    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+22-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:12:5-80
+22-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:12:22-78
+23    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+23-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:13:5-76
+23-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:13:22-74
+24    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+24-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:14:5-84
+24-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:14:22-82
+25    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+25-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:15:5-79
+25-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:15:22-76
+26    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+26-->[:react-native-community_netinfo] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
+26-->[:react-native-community_netinfo] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-73
+27
+28    <uses-feature
+28-->[:react-native-camera] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+29        android:name="android.hardware.camera.autofocus"
+29-->[:react-native-camera] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:15:9-57
+30        android:required="false" />
+30-->[:react-native-camera] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:16:9-33
+31
+32    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required to access Google Play Licensing -->
+32-->[:react-native-firebase] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+32-->[:react-native-firebase] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+33    <uses-permission android:name="com.android.vending.CHECK_LICENSE" /> <!-- Create a unique permission for your app and use it so only your app can receive your OneSignal messages. -->
+33-->[:rn-fetch-blob] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-73
+33-->[:rn-fetch-blob] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-70
+34    <permission
+34-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:7:5-9:47
+35        android:name="com.whizzard.mll.permission.C2D_MESSAGE"
+35-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:8:9-63
+36        android:protectionLevel="signature" />
+36-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:9:9-44
+37
+38    <uses-permission android:name="com.whizzard.mll.permission.C2D_MESSAGE" />
+38-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:11:5-79
+38-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:11:22-76
+39    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+39-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:17:5-82
+39-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:17:22-79
+40    <!--
+41 Use to restore notifications the user hasn't interacted with.
+42         They could be missed notifications if the user reboots their device if this isn't in place.
+43    -->
+44    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" /> <!-- START: ShortcutBadger -->
+44-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:29:5-81
+44-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:29:22-78
+45    <!-- Samsung -->
+46    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+46-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:31:5-86
+46-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:31:22-83
+47    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- HTC -->
+47-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:32:5-87
+47-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:32:22-84
+48    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+48-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:33:5-81
+48-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:33:22-78
+49    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- Sony -->
+49-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:34:5-83
+49-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:34:22-80
+50    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+50-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:35:5-88
+50-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:35:22-85
+51    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- Apex -->
+51-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:36:5-92
+51-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:36:22-89
+52    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- Solid -->
+52-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:37:5-84
+52-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:37:22-81
+53    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- Huawei -->
+53-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:38:5-83
+53-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:38:22-80
+54    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+54-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:39:5-91
+54-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:39:22-88
+55    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+55-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:40:5-92
+55-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:40:22-89
+56    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- ZUK -->
+56-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:41:5-93
+56-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:41:22-90
+57    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- OPPO -->
+57-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:42:5-73
+57-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:42:22-70
+58    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+58-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:43:5-82
+58-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:43:22-79
+59    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- EvMe -->
+59-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:44:5-83
+59-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:44:22-80
+60    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
+60-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:45:5-88
+60-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:45:22-85
+61    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" />
+61-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:46:5-89
+61-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:46:22-86
+62
+63    <uses-feature
+63-->[com.google.android.gms:play-services-maps:17.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+64        android:glEsVersion="0x00020000"
+64-->[com.google.android.gms:play-services-maps:17.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+65        android:required="true" />
+65-->[com.google.android.gms:play-services-maps:17.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+66
+67    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+67-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:26:5-110
+67-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:26:22-107
+68
+69    <application
+69-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:16:5-53:19
+70        android:name="com.whizzard.mll.MainApplication"
+70-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:17:9-40
+71        android:allowBackup="false"
+71-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:18:9-36
+72        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+72-->[androidx.core:core:1.3.1] /home/praveen/.gradle/caches/transforms-2/files-2.1/f3d364c4591b4da0386e5d8846d9d728/core-1.3.1/AndroidManifest.xml:24:18-86
+73        android:debuggable="true"
+74        android:extractNativeLibs="false"
+75        android:icon="@mipmap/ic_launcher"
+75-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:19:9-43
+76        android:label="@string/app_name"
+76-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:20:9-41
+77        android:requestLegacyExternalStorage="true"
+77-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:23:9-52
+78        android:theme="@style/AppTheme"
+78-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:21:9-40
+79        android:usesCleartextTraffic="true" >
+79-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:22:9-44
+80        <activity
+80-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:24:9-42:20
+81            android:name="com.whizzard.mll.MainActivity"
+81-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:25:13-41
+82            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+82-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:26:13-83
+83            android:label="@string/app_name"
+83-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:28:13-45
+84            android:launchMode="singleTop"
+84-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:30:13-43
+85            android:screenOrientation="portrait"
+85-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:27:13-49
+86            android:windowSoftInputMode="adjustResize" >
+86-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:29:13-55
+87            <intent-filter>
+87-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:31:13-34:29
+88                <action android:name="android.intent.action.MAIN" />
+88-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:32:17-69
+88-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:32:25-66
+89
+90                <category android:name="android.intent.category.LAUNCHER" />
+90-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:33:17-77
+90-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:33:27-74
+91            </intent-filter>
+92            <intent-filter android:label="filter_react_native" >
+92-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:35:13-41:29
+92-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:35:28-63
+93                <action android:name="android.intent.action.VIEW" />
+93-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:36:17-69
+93-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:36:25-66
+94
+95                <category android:name="android.intent.category.DEFAULT" />
+95-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:37:17-76
+95-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:37:27-73
+96                <category android:name="android.intent.category.BROWSABLE" />
+96-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:38:17-78
+96-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:38:27-75
+97                <!-- <data android:scheme="whizzard" android:host="article" /> -->
+98                <data
+98-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:40:17-80
+99                    android:host="notifications"
+99-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:40:49-77
+100                    android:scheme="whizzard" />
+100-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:40:23-48
+101            </intent-filter>
+102        </activity>
+103
+104        <meta-data
+104-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:44:9-46:71
+105            android:name="com.google.android.geo.API_KEY"
+105-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:45:13-58
+106            android:value="AIzaSyCr2maoYAmOb3Sg81mYnrBY_m7803DpwWU" /> <!-- android:value="AIzaSyDzm343wg-AxWbCNltYofmOK4pNjJItVF0"/> -->
+106-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:46:13-68
+107        <meta-data
+107-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:48:9-50:72
+108            android:name="io.fabric.ApiKey"
+108-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:49:13-44
+109            android:value="337e8872b3f3f2368c758d3284514896e455281a" />
+109-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:50:13-69
+110        <meta-data
+110-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:51:9-161
+111            android:name="com.onesignal.NotificationAccentColor.DEFAULT"
+111-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:51:20-80
+112            android:resource="@drawable/ic_stat_onesignal_default"
+112-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:51:105-159
+113            android:value="#db2b30" />
+113-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:51:81-104
+114
+115        <service android:name="com.whizzard.mll.service.LocationTrackingService" />
+115-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:52:9-67
+115-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:52:18-65
+116
+117        <receiver
+117-->[:react-native-device-info] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
+118            android:name="com.learnium.RNDeviceInfo.RNDeviceReceiver"
+118-->[:react-native-device-info] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-70
+119            android:enabled="true"
+119-->[:react-native-device-info] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-35
+120            android:exported="true" >
+120-->[:react-native-device-info] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-36
+121            <intent-filter>
+121-->[:react-native-device-info] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:29
+122                <action android:name="com.android.vending.INSTALL_REFERRER" />
+122-->[:react-native-device-info] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-79
+122-->[:react-native-device-info] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:25-76
+123            </intent-filter>
+124        </receiver>
+125
+126        <service
+126-->[:react-native-firebase] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
+127            android:name="com.google.firebase.components.ComponentDiscoveryService"
+127-->[:react-native-firebase] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
+128            android:directBootAware="true"
+128-->[com.google.firebase:firebase-common:19.1.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/8ebd3b70948bae0ffb15e51ddc859a3d/jetified-firebase-common-19.1.0/AndroidManifest.xml:14:13-43
+129            android:exported="false" >
+129-->[com.google.firebase:firebase-firestore:21.1.1] /home/praveen/.gradle/caches/transforms-2/files-2.1/7859c5aca7f0f6050ab146a932bac0f9/jetified-firebase-firestore-21.1.1/AndroidManifest.xml:19:13-37
+130            <meta-data
+130-->[:react-native-firebase] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
+131                android:name="com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar"
+131-->[:react-native-firebase] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
+132                android:value="com.google.firebase.components.ComponentRegistrar" />
+132-->[:react-native-firebase] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
+133            <meta-data
+133-->[com.google.firebase:firebase-firestore:21.1.1] /home/praveen/.gradle/caches/transforms-2/files-2.1/7859c5aca7f0f6050ab146a932bac0f9/jetified-firebase-firestore-21.1.1/AndroidManifest.xml:20:13-22:85
+134                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+134-->[com.google.firebase:firebase-firestore:21.1.1] /home/praveen/.gradle/caches/transforms-2/files-2.1/7859c5aca7f0f6050ab146a932bac0f9/jetified-firebase-firestore-21.1.1/AndroidManifest.xml:21:17-111
+135                android:value="com.google.firebase.components.ComponentRegistrar" />
+135-->[com.google.firebase:firebase-firestore:21.1.1] /home/praveen/.gradle/caches/transforms-2/files-2.1/7859c5aca7f0f6050ab146a932bac0f9/jetified-firebase-firestore-21.1.1/AndroidManifest.xml:22:17-82
+136            <meta-data
+136-->[com.google.firebase:firebase-auth:19.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/fc9b2cbf1b3225fb54e79434a591ff2f/jetified-firebase-auth-19.0.0/AndroidManifest.xml:36:13-38:85
+137                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+137-->[com.google.firebase:firebase-auth:19.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/fc9b2cbf1b3225fb54e79434a591ff2f/jetified-firebase-auth-19.0.0/AndroidManifest.xml:37:17-109
+138                android:value="com.google.firebase.components.ComponentRegistrar" />
+138-->[com.google.firebase:firebase-auth:19.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/fc9b2cbf1b3225fb54e79434a591ff2f/jetified-firebase-auth-19.0.0/AndroidManifest.xml:38:17-82
+139            <meta-data
+139-->[com.google.android.gms:play-services-measurement-api:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/5573efd94abcaa95adab3692ad663080/jetified-play-services-measurement-api-17.2.0/AndroidManifest.xml:30:13-32:85
+140                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+140-->[com.google.android.gms:play-services-measurement-api:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/5573efd94abcaa95adab3692ad663080/jetified-play-services-measurement-api-17.2.0/AndroidManifest.xml:31:17-139
+141                android:value="com.google.firebase.components.ComponentRegistrar" />
+141-->[com.google.android.gms:play-services-measurement-api:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/5573efd94abcaa95adab3692ad663080/jetified-play-services-measurement-api-17.2.0/AndroidManifest.xml:32:17-82
+142            <meta-data
+142-->[com.google.firebase:firebase-iid:19.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a886d85ce6da01d9892a75095a9cbdf1/jetified-firebase-iid-19.0.0/AndroidManifest.xml:32:13-34:85
+143                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+143-->[com.google.firebase:firebase-iid:19.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a886d85ce6da01d9892a75095a9cbdf1/jetified-firebase-iid-19.0.0/AndroidManifest.xml:33:17-96
+144                android:value="com.google.firebase.components.ComponentRegistrar" />
+144-->[com.google.firebase:firebase-iid:19.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a886d85ce6da01d9892a75095a9cbdf1/jetified-firebase-iid-19.0.0/AndroidManifest.xml:34:17-82
+145        </service>
+146
+147        <provider
+147-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
+148            android:name="androidx.core.content.FileProvider"
+148-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-62
+149            android:authorities="com.whizzard.mll.provider"
+149-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-60
+150            android:exported="false"
+150-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-37
+151            android:grantUriPermissions="true" >
+151-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-47
+152            <meta-data
+152-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:58
+153                android:name="android.support.FILE_PROVIDER_PATHS"
+153-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+154                android:resource="@xml/provider_paths" />
+154-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-55
+155        </provider>
+156
+157        <activity
+157-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-25:72
+158            android:name="com.yalantis.ucrop.UCropActivity"
+158-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-60
+159            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+159-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-69
+160
+161        <provider
+161-->[:react-native-image-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+162            android:name="com.imagepicker.ImagePickerProvider"
+162-->[:react-native-image-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-63
+163            android:authorities="com.whizzard.mll.imagepickerprovider"
+163-->[:react-native-image-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-71
+164            android:exported="false"
+164-->[:react-native-image-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+165            android:grantUriPermissions="true" >
+165-->[:react-native-image-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+166            <meta-data
+166-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:58
+167                android:name="android.support.FILE_PROVIDER_PATHS"
+167-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+168                android:resource="@xml/imagepicker_provider_paths" />
+168-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-55
+169        </provider>
+170        <provider
+170-->[:react-native-webview] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+171            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+171-->[:react-native-webview] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+172            android:authorities="com.whizzard.mll.fileprovider"
+172-->[:react-native-webview] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+173            android:exported="false"
+173-->[:react-native-webview] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+174            android:grantUriPermissions="true" >
+174-->[:react-native-webview] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+175            <meta-data
+175-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:58
+176                android:name="android.support.FILE_PROVIDER_PATHS"
+176-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+177                android:resource="@xml/file_provider_paths" />
+177-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-55
+178        </provider>
+179        <provider
+179-->[:rn-fetch-blob] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:9-44:20
+180            android:name="com.RNFetchBlob.Utils.FileProvider"
+180-->[:rn-fetch-blob] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-62
+181            android:authorities="com.whizzard.mll.provider"
+181-->[:rn-fetch-blob] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-60
+182            android:exported="false"
+182-->[:rn-fetch-blob] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-37
+183            android:grantUriPermissions="true" >
+183-->[:rn-fetch-blob] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-47
+184            <meta-data
+184-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:58
+185                android:name="android.support.FILE_PROVIDER_PATHS"
+185-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+186                android:resource="@xml/provider_paths" />
+186-->[:react-native-image-crop-picker] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-55
+187        </provider>
+188
+189        <meta-data
+189-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:49:9-51:51
+190            android:name="onesignal_app_id"
+190-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:50:13-44
+191            android:value="" /> <!-- Deprecated - Pulled from OneSignal dashboard. -->
+191-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:51:13-48
+192        <meta-data
+192-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:53:9-55:70
+193            android:name="onesignal_google_project_number"
+193-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:54:13-59
+194            android:value="str:REMOTE" />
+194-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:55:13-67
+195
+196        <receiver
+196-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:57:9-67:20
+197            android:name="com.onesignal.GcmBroadcastReceiver"
+197-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:58:13-62
+198            android:permission="com.google.android.c2dm.permission.SEND" >
+198-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:59:13-73
+199
+200            <!-- High priority so OneSignal payloads can be filtered from other GCM receivers if filterOtherGCMReceivers is enabled. -->
+201            <intent-filter android:priority="999" >
+201-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:62:13-66:29
+201-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:62:28-50
+202                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+202-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:63:17-81
+202-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:63:25-78
+203
+204                <category android:name="com.whizzard.mll" />
+204-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:65:17-61
+204-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:65:27-58
+205            </intent-filter>
+206        </receiver>
+207        <receiver android:name="com.onesignal.NotificationOpenedReceiver" />
+207-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:68:9-77
+207-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:68:19-74
+208
+209        <service
+209-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:70:9-76:19
+210            android:name="com.onesignal.HmsMessageServiceOneSignal"
+210-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:71:13-68
+211            android:exported="false" >
+211-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:72:13-37
+212            <intent-filter>
+212-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:73:13-75:29
+213                <action android:name="com.huawei.push.action.MESSAGING_EVENT" />
+213-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:74:17-81
+213-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:74:25-78
+214            </intent-filter>
+215        </service>
+216
+217        <activity
+217-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:78:9-84:20
+218            android:name="com.onesignal.NotificationOpenedActivityHMS"
+218-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:79:13-71
+219            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+219-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:80:13-72
+220            <intent-filter>
+220-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:81:13-83:29
+221                <action android:name="android.intent.action.VIEW" />
+221-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:36:17-69
+221-->/home/praveen/Desktop/SAMPLE/whizzardMahindra/android/app/src/main/AndroidManifest.xml:36:25-66
+222            </intent-filter>
+223        </activity>
+224
+225        <service android:name="com.onesignal.GcmIntentService" />
+225-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:86:9-66
+225-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:86:18-63
+226        <service
+226-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:87:9-89:72
+227            android:name="com.onesignal.GcmIntentJobService"
+227-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:88:13-61
+228            android:permission="android.permission.BIND_JOB_SERVICE" />
+228-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:89:13-69
+229        <service
+229-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:90:9-92:72
+230            android:name="com.onesignal.RestoreJobService"
+230-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:91:13-59
+231            android:permission="android.permission.BIND_JOB_SERVICE" />
+231-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:92:13-69
+232        <service
+232-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:93:9-95:72
+233            android:name="com.onesignal.RestoreKickoffJobService"
+233-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:94:13-66
+234            android:permission="android.permission.BIND_JOB_SERVICE" />
+234-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:95:13-69
+235        <service
+235-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:96:9-98:43
+236            android:name="com.onesignal.SyncService"
+236-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:97:13-53
+237            android:stopWithTask="true" />
+237-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:98:13-40
+238        <service
+238-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:99:9-101:72
+239            android:name="com.onesignal.SyncJobService"
+239-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:100:13-56
+240            android:permission="android.permission.BIND_JOB_SERVICE" />
+240-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:101:13-69
+241
+242        <activity
+242-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:103:9-105:75
+243            android:name="com.onesignal.PermissionsActivity"
+243-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:104:13-61
+244            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+244-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:105:13-72
+245
+246        <service android:name="com.onesignal.NotificationRestoreService" />
+246-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:107:9-76
+246-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:107:18-73
+247
+248        <receiver android:name="com.onesignal.BootUpReceiver" >
+248-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:109:9-114:20
+248-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:109:19-62
+249            <intent-filter>
+249-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:110:13-113:29
+250                <action android:name="android.intent.action.BOOT_COMPLETED" />
+250-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:111:17-79
+250-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:111:25-76
+251                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+251-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:112:17-82
+251-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:112:25-79
+252            </intent-filter>
+253        </receiver>
+254        <receiver android:name="com.onesignal.UpgradeReceiver" >
+254-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:115:9-119:20
+254-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:115:19-63
+255            <intent-filter>
+255-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:116:13-118:29
+256                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+256-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:117:17-84
+256-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:117:25-81
+257            </intent-filter>
+258        </receiver>
+259
+260        <provider
+260-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /home/praveen/.gradle/caches/transforms-2/files-2.1/26d313221f77f50608a78fd3118ef1d6/jetified-crashlytics-2.10.1/AndroidManifest.xml:19:9-23:38
+261            android:name="com.crashlytics.android.CrashlyticsInitProvider"
+261-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /home/praveen/.gradle/caches/transforms-2/files-2.1/26d313221f77f50608a78fd3118ef1d6/jetified-crashlytics-2.10.1/AndroidManifest.xml:20:13-75
+262            android:authorities="com.whizzard.mll.crashlyticsinitprovider"
+262-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /home/praveen/.gradle/caches/transforms-2/files-2.1/26d313221f77f50608a78fd3118ef1d6/jetified-crashlytics-2.10.1/AndroidManifest.xml:21:13-75
+263            android:exported="false"
+263-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /home/praveen/.gradle/caches/transforms-2/files-2.1/26d313221f77f50608a78fd3118ef1d6/jetified-crashlytics-2.10.1/AndroidManifest.xml:22:13-37
+264            android:initOrder="90" />
+264-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /home/praveen/.gradle/caches/transforms-2/files-2.1/26d313221f77f50608a78fd3118ef1d6/jetified-crashlytics-2.10.1/AndroidManifest.xml:23:13-35
+265
+266        <activity
+266-->[com.google.firebase:firebase-auth:19.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/fc9b2cbf1b3225fb54e79434a591ff2f/jetified-firebase-auth-19.0.0/AndroidManifest.xml:24:9-31:50
+267            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+267-->[com.google.firebase:firebase-auth:19.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/fc9b2cbf1b3225fb54e79434a591ff2f/jetified-firebase-auth-19.0.0/AndroidManifest.xml:25:13-85
+268            android:excludeFromRecents="true"
+268-->[com.google.firebase:firebase-auth:19.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/fc9b2cbf1b3225fb54e79434a591ff2f/jetified-firebase-auth-19.0.0/AndroidManifest.xml:26:13-46
+269            android:exported="true"
+269-->[com.google.firebase:firebase-auth:19.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/fc9b2cbf1b3225fb54e79434a591ff2f/jetified-firebase-auth-19.0.0/AndroidManifest.xml:27:13-36
+270            android:launchMode="singleTask"
+270-->[com.google.firebase:firebase-auth:19.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/fc9b2cbf1b3225fb54e79434a591ff2f/jetified-firebase-auth-19.0.0/AndroidManifest.xml:28:13-44
+271            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+271-->[com.google.firebase:firebase-auth:19.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/fc9b2cbf1b3225fb54e79434a591ff2f/jetified-firebase-auth-19.0.0/AndroidManifest.xml:29:13-102
+272            android:theme="@android:style/Theme.Translucent.NoTitleBar" /> <!-- Needs to be explicitly declared on P+ -->
+272-->[com.google.firebase:firebase-auth:19.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/fc9b2cbf1b3225fb54e79434a591ff2f/jetified-firebase-auth-19.0.0/AndroidManifest.xml:30:13-72
+273        <uses-library
+273-->[com.google.android.gms:play-services-maps:17.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+274            android:name="org.apache.http.legacy"
+274-->[com.google.android.gms:play-services-maps:17.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+275            android:required="false" />
+275-->[com.google.android.gms:play-services-maps:17.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+276        <!--
+277             FirebaseMessagingService performs security checks at runtime,
+278             but set to not exported to explicitly avoid allowing another app to call it.
+279        -->
+280        <service
+280-->[com.google.firebase:firebase-messaging:18.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/f0108e3986cc9b95596956f152263b46/jetified-firebase-messaging-18.0.0/AndroidManifest.xml:28:9-34:19
+281            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+281-->[com.google.firebase:firebase-messaging:18.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/f0108e3986cc9b95596956f152263b46/jetified-firebase-messaging-18.0.0/AndroidManifest.xml:29:13-82
+282            android:exported="false" >
+282-->[com.google.firebase:firebase-messaging:18.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/f0108e3986cc9b95596956f152263b46/jetified-firebase-messaging-18.0.0/AndroidManifest.xml:30:13-37
+283            <intent-filter android:priority="-500" >
+283-->[com.google.firebase:firebase-messaging:18.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/f0108e3986cc9b95596956f152263b46/jetified-firebase-messaging-18.0.0/AndroidManifest.xml:31:13-33:29
+283-->[com.google.firebase:firebase-messaging:18.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/f0108e3986cc9b95596956f152263b46/jetified-firebase-messaging-18.0.0/AndroidManifest.xml:31:28-51
+284                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+284-->[com.google.firebase:firebase-messaging:18.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/f0108e3986cc9b95596956f152263b46/jetified-firebase-messaging-18.0.0/AndroidManifest.xml:32:17-78
+284-->[com.google.firebase:firebase-messaging:18.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/f0108e3986cc9b95596956f152263b46/jetified-firebase-messaging-18.0.0/AndroidManifest.xml:32:25-75
+285            </intent-filter>
+286        </service>
+287
+288        <receiver
+288-->[com.google.firebase:firebase-iid:19.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a886d85ce6da01d9892a75095a9cbdf1/jetified-firebase-iid-19.0.0/AndroidManifest.xml:37:9-44:20
+289            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+289-->[com.google.firebase:firebase-iid:19.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a886d85ce6da01d9892a75095a9cbdf1/jetified-firebase-iid-19.0.0/AndroidManifest.xml:38:13-78
+290            android:exported="true"
+290-->[com.google.firebase:firebase-iid:19.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a886d85ce6da01d9892a75095a9cbdf1/jetified-firebase-iid-19.0.0/AndroidManifest.xml:39:13-36
+291            android:permission="com.google.android.c2dm.permission.SEND" >
+291-->[com.google.firebase:firebase-iid:19.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a886d85ce6da01d9892a75095a9cbdf1/jetified-firebase-iid-19.0.0/AndroidManifest.xml:40:13-73
+292            <intent-filter>
+292-->[com.google.firebase:firebase-iid:19.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a886d85ce6da01d9892a75095a9cbdf1/jetified-firebase-iid-19.0.0/AndroidManifest.xml:41:13-43:29
+293                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+293-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:63:17-81
+293-->[com.onesignal:OneSignal:3.16.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a0d8e44d20bfba77994e0ece161460fa/jetified-OneSignal-3.16.0/AndroidManifest.xml:63:25-78
+294            </intent-filter>
+295        </receiver>
+296
+297        <activity
+297-->[com.google.android.gms:play-services-base:17.1.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a63935de15513710d98bf227aa324a8b/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+298            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+298-->[com.google.android.gms:play-services-base:17.1.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a63935de15513710d98bf227aa324a8b/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+299            android:exported="false"
+299-->[com.google.android.gms:play-services-base:17.1.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a63935de15513710d98bf227aa324a8b/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+300            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+300-->[com.google.android.gms:play-services-base:17.1.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a63935de15513710d98bf227aa324a8b/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+301
+302        <receiver
+302-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:29:9-33:20
+303            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+303-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:30:13-85
+304            android:enabled="true"
+304-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:31:13-35
+305            android:exported="false" >
+305-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:32:13-37
+306        </receiver>
+307        <receiver
+307-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:34:9-42:20
+308            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+308-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:35:13-100
+309            android:enabled="true"
+309-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:36:13-35
+310            android:exported="true"
+310-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:37:13-36
+311            android:permission="android.permission.INSTALL_PACKAGES" >
+311-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:38:13-69
+312            <intent-filter>
+312-->[:react-native-device-info] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:29
+313                <action android:name="com.android.vending.INSTALL_REFERRER" />
+313-->[:react-native-device-info] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-79
+313-->[:react-native-device-info] /home/praveen/Desktop/SAMPLE/whizzardMahindra/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:25-76
+314            </intent-filter>
+315        </receiver>
+316
+317        <service
+317-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:44:9-47:40
+318            android:name="com.google.android.gms.measurement.AppMeasurementService"
+318-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:45:13-84
+319            android:enabled="true"
+319-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:46:13-35
+320            android:exported="false" />
+320-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:47:13-37
+321        <service
+321-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:48:9-52:72
+322            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+322-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:49:13-87
+323            android:enabled="true"
+323-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:50:13-35
+324            android:exported="false"
+324-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:51:13-37
+325            android:permission="android.permission.BIND_JOB_SERVICE" />
+325-->[com.google.android.gms:play-services-measurement:17.2.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/ccf016116028a5b1e15fd95b517654d3/jetified-play-services-measurement-17.2.0/AndroidManifest.xml:52:13-69
+326
+327        <provider
+327-->[com.google.firebase:firebase-common:19.1.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/8ebd3b70948bae0ffb15e51ddc859a3d/jetified-firebase-common-19.1.0/AndroidManifest.xml:17:9-21:39
+328            android:name="com.google.firebase.provider.FirebaseInitProvider"
+328-->[com.google.firebase:firebase-common:19.1.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/8ebd3b70948bae0ffb15e51ddc859a3d/jetified-firebase-common-19.1.0/AndroidManifest.xml:18:13-77
+329            android:authorities="com.whizzard.mll.firebaseinitprovider"
+329-->[com.google.firebase:firebase-common:19.1.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/8ebd3b70948bae0ffb15e51ddc859a3d/jetified-firebase-common-19.1.0/AndroidManifest.xml:19:13-72
+330            android:exported="false"
+330-->[com.google.firebase:firebase-common:19.1.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/8ebd3b70948bae0ffb15e51ddc859a3d/jetified-firebase-common-19.1.0/AndroidManifest.xml:20:13-37
+331            android:initOrder="100" />
+331-->[com.google.firebase:firebase-common:19.1.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/8ebd3b70948bae0ffb15e51ddc859a3d/jetified-firebase-common-19.1.0/AndroidManifest.xml:21:13-36
+332
+333        <meta-data
+333-->[com.google.android.gms:play-services-basement:17.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/830f40744a6b50d3acce285cce8599db/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+334            android:name="com.google.android.gms.version"
+334-->[com.google.android.gms:play-services-basement:17.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/830f40744a6b50d3acce285cce8599db/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+335            android:value="@integer/google_play_services_version" />
+335-->[com.google.android.gms:play-services-basement:17.0.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/830f40744a6b50d3acce285cce8599db/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+336        <meta-data
+336-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a762d6e100fe86996b7a67e6fac786f7/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:11:9-13:43
+337            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+337-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a762d6e100fe86996b7a67e6fac786f7/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:12:13-84
+338            android:value="GlideModule" />
+338-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /home/praveen/.gradle/caches/transforms-2/files-2.1/a762d6e100fe86996b7a67e6fac786f7/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:13:13-40
+339    </application>
+340
+341</manifest>

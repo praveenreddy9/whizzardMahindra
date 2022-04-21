@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="25" viewBox="0 0 32 25">
+  <defs>
+    <clipPath id="clip-Upload_Aadhar_card">
+      <rect width="32" height="25"/>
+    </clipPath>
+  </defs>
+  <g id="Upload_Aadhar_card" data-name="Upload Aadhar card" clip-path="url(#clip-Upload_Aadhar_card)">
+    <g id="Group_178" data-name="Group 178" transform="translate(2776.121 -1326)">
+      <g id="Group_170" data-name="Group 170" transform="translate(-2770.121 1329.995)">
+        <path id="Path_253" data-name="Path 253" d="M10.286,16.967H2.737A2.483,2.483,0,0,1,0,14.218V5.076A2.426,2.426,0,0,1,2.619,2.469,12.831,12.831,0,0,0,4.27,2.446a4.485,4.485,0,0,0,1.1-.425.186.186,0,0,0,.083-.083C6.547.287,8.139-.1,10.015.028c1.227.083,2.477.024,3.716.012.436,0,.838.094.838.6s-.389.613-.826.613c-1.675,0-3.338.012-5.013,0a2.017,2.017,0,0,0-1.746.8c-.118.153-.271.295-.389.448A2.717,2.717,0,0,1,3.987,3.673a9.508,9.508,0,0,0-1.533,0A1.2,1.2,0,0,0,1.2,4.947c-.012,3.161-.012,6.334,0,9.5,0,.873.507,1.321,1.451,1.321,1.923.012,3.857,0,5.78,0h9.26c1.25,0,1.651-.4,1.651-1.663,0-2.654-.012-5.308.012-7.962a1.108,1.108,0,0,1,.366-.779c.377-.26.8.106.814.649.012,1.333,0,2.678,0,4.011v4.247a2.477,2.477,0,0,1-2.725,2.7Z" fill="#848caa"/>
+        <path id="Path_254" data-name="Path 254" d="M61.8,54.719A2.983,2.983,0,0,1,64.76,51.7a3.023,3.023,0,0,1,3.067,3,3.066,3.066,0,0,1-3.043,3.043A3.034,3.034,0,0,1,61.8,54.719Zm1.2-.012a1.81,1.81,0,0,0,1.781,1.817,1.805,1.805,0,1,0,0-3.61A1.767,1.767,0,0,0,63,54.707Z" transform="translate(-54.51 -45.597)" fill="#848caa"/>
+        <g id="icons_chevron" data-name="icons/chevron" transform="translate(24.208 7.092) rotate(180)">
+          <rect id="bg" width="10" height="10" transform="translate(0.088 0.088)" fill="none"/>
+          <rect id="line" width="3.446" height="0.861" rx="0.431" transform="translate(3.543 3.565) rotate(45)" fill="#848caa"/>
+          <rect id="line-2" data-name="line" width="3.446" height="0.861" rx="0.431" transform="translate(4.786 6.001) rotate(-45)" fill="#848caa"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

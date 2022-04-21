@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="37" viewBox="0 0 45 37">
+  <defs>
+    <clipPath id="clip-Insurance_Policy_">
+      <rect width="45" height="37"/>
+    </clipPath>
+  </defs>
+  <g id="Insurance_Policy_" data-name="Insurance Policy " clip-path="url(#clip-Insurance_Policy_)">
+    <g id="Group_177" data-name="Group 177" transform="translate(2645 -1114.658)">
+      <g id="Group_167" data-name="Group 167" transform="translate(-2639 1116.658)">
+        <g id="Group_130" data-name="Group 130" transform="translate(5.816 18.119)">
+          <g id="Group_88" data-name="Group 88" transform="translate(0)">
+            <g id="Group_81" data-name="Group 81" transform="translate(12.554 1.312)">
+              <path id="Path_237" data-name="Path 237" d="M189.865,27.866h-1.1V25.6a.4.4,0,0,0-.193-.338l-2.23-1.34-.021-.283c0-.035-.311-3.245-2.279-3.535H181.8V19h2.313l.035.007c2.465.318,3.094,3.294,3.232,4.254l1.761,1.056a1.5,1.5,0,0,1,.725,1.284Z" transform="translate(-181.8 -19)" fill="#233167" stroke="#233167" stroke-width="0.5"/>
+            </g>
+            <g id="Group_82" data-name="Group 82">
+              <path id="Path_238" data-name="Path 238" d="M1.1,10.178H0V0H12.982V9.149h-1.1V1.1H1.1Z" fill="#233167" stroke="#233167" stroke-width="0.5"/>
+            </g>
+            <g id="Group_84" data-name="Group 84" transform="translate(2.196 10.406)">
+              <g id="Group_83" data-name="Group 83">
+                <path id="Path_239" data-name="Path 239" d="M34.5,156.1a2.7,2.7,0,1,1,2.7-2.7A2.7,2.7,0,0,1,34.5,156.1Zm0-4.3a1.6,1.6,0,1,0,1.6,1.6A1.6,1.6,0,0,0,34.5,151.8Z" transform="translate(-31.8 -150.7)" fill="#233167" stroke="#233167" stroke-width="0.5"/>
+              </g>
+            </g>
+            <g id="Group_86" data-name="Group 86" transform="translate(12.968 10.406)">
+              <g id="Group_85" data-name="Group 85">
+                <path id="Path_240" data-name="Path 240" d="M190.5,156.1a2.7,2.7,0,1,1,2.7-2.7A2.7,2.7,0,0,1,190.5,156.1Zm0-4.3a1.6,1.6,0,1,0,1.6,1.6A1.6,1.6,0,0,0,190.5,151.8Z" transform="translate(-187.8 -150.7)" fill="#233167" stroke="#233167" stroke-width="0.5"/>
+              </g>
+            </g>
+            <path id="Path_241" data-name="Path 241" d="M250.948,147.4v2.368H248.6a1.627,1.627,0,0,1,0,1.1h3.453V147.4Z" transform="translate(-231.434 -137.222)" fill="#233167" stroke="#233167" stroke-width="0.5"/>
+            <g id="Group_87" data-name="Group 87" transform="translate(0 10.185)">
+              <path id="Path_242" data-name="Path 242" d="M3.3,150.421a1.63,1.63,0,0,1,.1-.552H1.1V147.5H0v3.473H3.4A1.482,1.482,0,0,1,3.3,150.421Z" transform="translate(0 -147.5)" fill="#233167" stroke="#233167" stroke-width="0.5"/>
+              <path id="Path_243" data-name="Path 243" d="M100.375,181.8H92.6a1.627,1.627,0,0,1,0,1.1h7.775a1.629,1.629,0,0,1-.1-.552A1.572,1.572,0,0,1,100.375,181.8Z" transform="translate(-86.206 -179.432)" fill="#233167" stroke="#233167" stroke-width="0.5"/>
+            </g>
+          </g>
+        </g>
+        <path id="Path_268" data-name="Path 268" d="M8.75,16.427H7.914C7.077,13.934,6.064,13,4.246,13.065,2.59,13.13,1.512,14.223.965,16.411H0c.161-5.63,2.413-10.2,7.061-13.35a15.127,15.127,0,0,1,16.986-.708c5.34,3.056,7.93,7.882,8.2,14.058H31.3c-.74-2.381-1.818-3.362-3.6-3.33-1.689.032-2.767,1.078-3.378,3.33h-.9a3.39,3.39,0,0,0-1.5-2.67,4.648,4.648,0,0,0-2.091-.627c-1.689-.032-2.831,1.206-3.281,3.3H15.7c-.852-2.493-1.866-3.41-3.667-3.346C10.375,13.146,9.249,14.272,8.75,16.427Zm.241-3.072a4.684,4.684,0,0,1,3.828-1.271A4.618,4.618,0,0,1,16.1,14.256c2.171-2.606,3.925-2.847,7.061-1.029-.032-.161-.048-.29-.064-.418-.032-.161-.032-.322-.064-.483A16.44,16.44,0,0,0,16.76,1.661a.923.923,0,0,0-1.271-.016C11.6,4.524,9.747,8.529,8.991,13.355Zm5.1-11.983C6.772,2.337,2.107,8.578,1.544,13.017c2.493-1.5,3.78-1.383,6.37.611C8.493,8.851,10.2,4.653,14.09,1.372ZM24.336,13.628A4.5,4.5,0,0,1,30.69,13.1c-.82-5.646-6.868-11.308-12.4-11.662C21.763,5.264,22.7,5.843,24.336,13.628Z" transform="translate(0 -0.082)" fill="#233167" stroke="#233167" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

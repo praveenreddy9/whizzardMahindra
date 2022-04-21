@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="37" viewBox="0 0 45 37">
+  <defs>
+    <clipPath id="clip-Identity_Proofs">
+      <rect width="45" height="37"/>
+    </clipPath>
+  </defs>
+  <g id="Identity_Proofs" data-name="Identity Proofs" clip-path="url(#clip-Identity_Proofs)">
+    <g id="Group_165" data-name="Group 165" transform="translate(6 6)">
+      <g id="Group_119" data-name="Group 119">
+        <path id="Path_265" data-name="Path 265" d="M28.708,24.51H4.2a4.191,4.191,0,0,1-4.2-4.2V4.2A4.191,4.191,0,0,1,4.2,0h24.51a4.191,4.191,0,0,1,4.2,4.2V20.35A4.183,4.183,0,0,1,28.708,24.51ZM4.2,1.5A2.687,2.687,0,0,0,1.5,4.2V20.35a2.687,2.687,0,0,0,2.7,2.7h24.51a2.687,2.687,0,0,0,2.7-2.7V4.2a2.687,2.687,0,0,0-2.7-2.7Z" fill="#233167"/>
+      </g>
+      <g id="Group_124" data-name="Group 124" transform="translate(5.328 4.46)">
+        <g id="Group_121" data-name="Group 121" transform="translate(1.799)">
+          <g id="Group_120" data-name="Group 120">
+            <path id="Path_266" data-name="Path 266" d="M58.523,17.746a2.923,2.923,0,1,1,2.923-2.923A2.927,2.927,0,0,1,58.523,17.746Zm0-4.01a1.087,1.087,0,1,0,1.087,1.087A1.139,1.139,0,0,0,58.523,13.736Z" transform="translate(-55.6 -11.9)" fill="#233167"/>
+          </g>
+        </g>
+        <g id="Group_123" data-name="Group 123" transform="translate(0 6.221)">
+          <g id="Group_122" data-name="Group 122">
+            <path id="Path_267" data-name="Path 267" d="M60.207,36.558H50.8V30.9l4.8-2.4,4.61,2.436Zm-7.533-1.836h5.7v-2.7L55.6,30.561l-2.923,1.462Z" transform="translate(-50.8 -28.5)" fill="#233167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_125" data-name="Group 125" transform="translate(18.058 7.87)">
+        <rect id="Rectangle_105" data-name="Rectangle 105" width="10.756" height="1.499" fill="#233167"/>
+      </g>
+      <g id="Group_126" data-name="Group 126" transform="translate(18.058 12.742)">
+        <rect id="Rectangle_106" data-name="Rectangle 106" width="7.945" height="1.499" fill="#233167"/>
+      </g>
+    </g>
+  </g>
+</svg>

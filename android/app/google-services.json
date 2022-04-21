@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "13093427250",
+    "firebase_url": "https://whizzard-ad52a.firebaseio.com",
+    "project_id": "whizzard-ad52a",
+    "storage_bucket": "whizzard-ad52a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13093427250:android:5e5a82472df89d57",
+        "android_client_info": {
+          "package_name": "com.whizzard.mll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13093427250-ubg8vloir6ec00ne2jcqria03km5de3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whizzard.mll",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "13093427250-f0747kfnnie86n8rglg5c2kom2e263o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKhh7lOKs0GEdLWzyb0kXA4JjnJcu04ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13093427250-f0747kfnnie86n8rglg5c2kom2e263o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
